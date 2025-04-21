@@ -64,7 +64,10 @@
     <Compile Include="Assets\PlayerRespawn.cs" />
     <Compile Include="Assets\JumpKingMovement.cs" />
     <Compile Include="Assets\JumpChargeUI.cs" />
+    <Compile Include="Assets\EnemyProjectile.cs" />
     <Compile Include="Assets\CheckPoint.cs" />
+    <Compile Include="Assets\EnemyShooter.cs" />
+    <Compile Include="Assets\EnemyKillable.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
