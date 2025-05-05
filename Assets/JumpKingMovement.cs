@@ -11,6 +11,8 @@ public class JumpKingMovement : MonoBehaviour
     public LayerMask groundLayer;
     public bool IsCharging => isCharging;
     public float ChargePercent => Mathf.Clamp01(chargeTime / maxChargeTime);
+    public bool EstaEnSuelo => isGrounded;
+
 
 
     private Rigidbody2D rb;

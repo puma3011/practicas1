@@ -64,8 +64,11 @@
     <Compile Include="Assets\PlayerRespawn.cs" />
     <Compile Include="Assets\JumpKingMovement.cs" />
     <Compile Include="Assets\JumpChargeUI.cs" />
+    <Compile Include="Assets\EnemigoSeguidor.cs" />
     <Compile Include="Assets\PausaManager.cs" />
+    <Compile Include="Assets\MetaFinal.cs" />
     <Compile Include="Assets\EnemyProjectile.cs" />
+    <Compile Include="Assets\MenuVictoria.cs" />
     <Compile Include="Assets\CheckPoint.cs" />
     <Compile Include="Assets\FadeTransition.cs" />
     <Compile Include="Assets\MenuPrincipal.cs" />
