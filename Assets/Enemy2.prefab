@@ -178,7 +178,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jugador: {fileID: 0}
   velocidad: 2
-  rangoDeteccion: 5
+  rangoDeteccion: 6
 --- !u!114 &4926831640165041458
 MonoBehaviour:
   m_ObjectHideFlags: 0
